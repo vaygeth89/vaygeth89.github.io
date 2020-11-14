@@ -1,0 +1,10 @@
+lsi: false
+safe: true
+source: 'C:\Users\Vaygeth\Desktop\development\business\vaygeth89.github.io'
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
